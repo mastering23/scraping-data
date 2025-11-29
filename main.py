@@ -12,7 +12,6 @@ with open('quotes.txt','w', encoding="utf-8") as f:
       line = line.replace('“', '').replace('”', '')
       f.write(line + "\n")
 
-html2 = r.text
 with open('author.txt','w', encoding="utf-8") as f:
   for line in html.split('\n'):
     if ' <span>by <small class="author" itemprop="author">' in line:
