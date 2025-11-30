@@ -1,0 +1,22 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quotes</title>
+  <link rel="stylesheet" href="{% static 'quotes_app/styles.css' %}">
+</head>
+<body>
+    <h1>Quotes List</h1>
+    <ul>
+        {% for item in quotes %}
+            <li>
+                <strong>{{ item.author }}</strong>: "{{ item.quote }}"
+            </li>
+        {% empty %}
+            <li>No quotes available.</li>
+        {% endfor %}
+    </ul>
+</body>
+</html>

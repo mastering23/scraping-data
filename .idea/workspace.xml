@@ -5,7 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7083668d-0cdf-4154-99f5-d75711843b85" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/quotes_project/quotes_app/static/quotes_app/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quotes_project/quotes_app/templates/quotes_app/app.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/author.txt" beforeDir="false" afterPath="$PROJECT_DIR$/quotes_project/quotes_app/author.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extractor.py" beforeDir="false" afterPath="$PROJECT_DIR$/extractor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotes.csv" beforeDir="false" afterPath="$PROJECT_DIR$/quotes_project/quotes_app/quotes.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/quotes_project/quotes_app/quotes.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,11 +44,21 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.apps.executor": "Run",
+    "Python.extractor.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.manage.executor": "Run",
+    "Python.views.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Engel\OneDrive\Documents\scrapping-data\quotes_project\quotes_app\static" />
+      <recent name="C:\Users\Engel\OneDrive\Documents\scrapping-data\quotes_project\quotes_app" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
